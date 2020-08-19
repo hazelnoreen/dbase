@@ -1,0 +1,13 @@
+{
+    "profile": [
+        {
+            "id": 1,
+            "fname": "Hazel",
+            "lname": "Castro",
+            "num": "098765",
+            "address": "Bulacan",
+            "bday": "April 18, 1985",
+            "gender": "Female"
+        }
+    ]
+}
